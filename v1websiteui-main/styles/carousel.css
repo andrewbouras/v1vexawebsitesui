@@ -1,0 +1,16 @@
+.university-logo-slider .slick-track {
+  display: flex;
+  align-items: center;
+}
+
+.university-logo-slider .slick-slide {
+  height: auto;
+}
+
+.university-logo-slider .slick-slide > div {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
