@@ -37,7 +37,7 @@ const CallToAction = () => {
             className="mt-8 w-full sm:w-auto transition-transform duration-300 hover:scale-105" 
             asChild
           >
-            <Link href="/learn-more">
+            <Link href="/about">
               Learn more
               <ArrowRight className="ml-2 h-5 w-5" />
             </Link>
